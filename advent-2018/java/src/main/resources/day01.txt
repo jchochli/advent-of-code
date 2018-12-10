@@ -1,1 +1,1 @@
-/Users/jchochli/Development/repos/advent-of-code/advent-2018/day1_part1_input.txt
+/Users/jchochli/Development/repos/advent-of-code/advent-2018/day1_input.txt
